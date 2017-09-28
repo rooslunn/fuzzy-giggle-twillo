@@ -1,2 +1,2 @@
-## Laravel and Twilio Video API Demo Project
+## Laravel and Twilio Video API Project
 
